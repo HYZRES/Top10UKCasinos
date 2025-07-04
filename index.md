@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+layout: default
+title: Welcome to Top10UKCasinos!
 ---
